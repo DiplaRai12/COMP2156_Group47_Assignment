@@ -1,0 +1,10 @@
+DevOps Overview:
+DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). 
+It aims to shorten the development lifecycle and provide continuous delivery with high software quality.
+
+Key Concepts:
+- Continuous Integration (CI)
+- Continuous Deployment (CD)
+- Infrastructure as Code (IaC)
+- Monitoring and Logging
+- Collaboration and Communication
